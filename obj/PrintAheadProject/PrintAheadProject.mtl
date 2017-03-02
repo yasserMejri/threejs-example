@@ -1,0 +1,78 @@
+newmtl Torso
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeTorsoM_smoothed.jpg
+newmtl Sclera
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeEyesM_smoothed.jpg
+newmtl Pupils
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeEyesM_smoothed.jpg
+newmtl Irises
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeEyesM_smoothed.jpg
+newmtl EyeReflection
+Ns 0
+Ni 0
+d 0
+Kd 0.8 0.8 0.8
+map_Kd /Textures/tempProjectImage.jpg
+newmtl Cornea
+Ns 0
+Ni 0
+d 0
+Kd 1 1 1
+map_Kd /Textures/tempProjectImage.jpg
+newmtl Tear
+Ns 0
+Ni 0
+d 0
+Kd 0.8 0.8 0.8
+map_Kd /Textures/tempProjectImage.jpg
+newmtl Nostrils
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeHeadM_smoothed.jpg
+newmtl Lips
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeHeadM_smoothed.jpg
+newmtl Lacrimals
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeEyesM_smoothed.jpg
+newmtl Head
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeTorsoM_smoothed.jpg
+newmtl Face
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeHeadM_smoothed.jpg
+newmtl Ears
+Ns 0
+Ni 0
+d 1
+Kd 1 1 1
+map_Kd /Textures/V5BreeTorsoM_smoothed.jpg
